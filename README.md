@@ -1,5 +1,7 @@
 ## Hi I'm Hoag 👋
 
+:computer: _Software Engenieer :man_technologist: Living in Ha Noi :vietnam:
+
 ### Programming Languages ###
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
@@ -15,3 +17,11 @@
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop%20-%2331A8FF.svg?&style=flat-square&logo=Adobe%20Photoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator%20-%23FF9A00.svg?&style=flat-square&logo=Adobe%20Illustrator&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20Xd%20-%23FF26BE.svg?&style=flat-square&logo=Adobe%20Xd&logoColor=white)
+
+### Version Control ###
+![Git](https://img.shields.io/badge/Git%20-%23F05033.svg?&style=flat-square&logo=Git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub%20-%23121011.svg?&style=flat-square&logo=GitHub&logoColor=white)
+
+### Education ###
+![Udemy](https://img.shields.io/badge/Udemy%20-%23EA5252.svg?&style=for-the-badge&logo=Udemy&logoColor=white)
+![Doulingo](https://img.shields.io/badge/Duolingo%20-%234DC730.svg?&style=for-the-badge&logo=Duolingo&logoColor=white)
