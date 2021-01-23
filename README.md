@@ -15,7 +15,7 @@
 
 ### Servers/Databases ###
 ![Apache](https://img.shields.io/badge/Apache%20-%23D42029.svg?&style=flat-square&logo=Apache&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySql-%2300f.svg?&style=flat-square&logo=MySql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?&style=flat-square&logo=MySQL&logoColor=white)
 
 ### Design ###
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop%20-%2331A8FF.svg?&style=flat-square&logo=Adobe%20Photoshop&logoColor=white)
