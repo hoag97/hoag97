@@ -32,7 +32,7 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white)
 
 ### CodeWar ###
-![codewar](https://www.codewars.com/users/hoag97/badges/large)
+![codewar](https://www.codewars.com/users/hoag97/badges/small)
 
 ##
 ⭐️ From [hoag](https://github.com/hoag97)
