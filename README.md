@@ -31,7 +31,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub%20-%23121011.svg?&style=flat-square&logo=GitHub&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white)
 
-### CodeWar ###
+### Codewars ###
 ![codewar](https://www.codewars.com/users/hoag97/badges/small)
 
 ##
