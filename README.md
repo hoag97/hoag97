@@ -1,6 +1,6 @@
 ## Hi I'm Hoag 👋
 
-:computer: _Software Engenieer :man_technologist: Living in Ha Noi :vietnam:
+:computer: _Web Developer :man_technologist: Living in Ha Noi :vietnam:
 
 ### Programming Languages ###
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
